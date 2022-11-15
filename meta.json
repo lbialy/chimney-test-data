@@ -20,5 +20,16 @@
     "link": "https://github.com/lbialy/chimney-test/compare/f960b36eda6e...e7aa714c6075",
     "timestamp": "2022-11-15T12:23:12+01:00",
     "prevCommit": "f960b36eda6e97327f4a8c838da4022d8dd55d67"
+  },
+  {
+    "file": "7034a6c18afc94d3d5d99593843b0e1f5e053570.json",
+    "sha": "7034a6c18afc94d3d5d99593843b0e1f5e053570",
+    "event": "push",
+    "describe": "7034a6c",
+    "ref": "refs/heads/main",
+    "author": "lbialy",
+    "link": "https://github.com/lbialy/chimney-test/compare/e7aa714c6075...7034a6c18afc",
+    "timestamp": "2022-11-15T12:58:41+01:00",
+    "prevCommit": "e7aa714c607567300ef84908c628c169c9e1156a"
   }
 ]
