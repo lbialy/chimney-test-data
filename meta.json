@@ -20,5 +20,16 @@
     "sourceBranch": "lbialy/chimney-test/privileged",
     "label": "benchmark",
     "prTitle": "checking privileges"
+  },
+  {
+    "file": "0d91a5fb63b5ced38be8b2cf1c5f7bc1b721848f.json",
+    "sha": "0d91a5fb63b5ced38be8b2cf1c5f7bc1b721848f",
+    "event": "pull_request",
+    "describe": "0d91a5f",
+    "ref": "refs/pull/11/merge",
+    "author": "lbialy",
+    "link": "https://github.com/lbialy/chimney-test/pull/11",
+    "sourceBranch": "lbialy/chimney-test/privileged",
+    "prTitle": "checking privileges"
   }
 ]
