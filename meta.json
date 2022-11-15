@@ -31,5 +31,16 @@
     "link": "https://github.com/lbialy/chimney-test/pull/11",
     "sourceBranch": "lbialy/chimney-test/privileged",
     "prTitle": "checking privileges"
+  },
+  {
+    "file": "bd049a617cdfad614c7e8dcec72ab62b63b967ef.json",
+    "sha": "bd049a617cdfad614c7e8dcec72ab62b63b967ef",
+    "event": "push",
+    "describe": "bd049a6",
+    "ref": "refs/heads/main",
+    "author": "lbialy",
+    "link": "https://github.com/lbialy/chimney-test/compare/e30d6461deb1...bd049a617cdf",
+    "timestamp": "2022-11-15T11:08:07+01:00",
+    "prevCommit": "e30d6461deb17f1bcc668183a1962ec553f299b0"
   }
 ]
