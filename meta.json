@@ -33,14 +33,16 @@
     "prTitle": "checking privileges"
   },
   {
-    "file": "bd049a617cdfad614c7e8dcec72ab62b63b967ef.json",
-    "sha": "bd049a617cdfad614c7e8dcec72ab62b63b967ef",
-    "event": "push",
-    "describe": "bd049a6",
-    "ref": "refs/heads/main",
+    "file": "06abc67ca26dddfdd6473843e6e3ff49f9d92221.json",
+    "sha": "06abc67ca26dddfdd6473843e6e3ff49f9d92221",
+    "event": "pull_request",
+    "describe": "06abc67",
+    "ref": "refs/pull/11/merge",
     "author": "lbialy",
-    "link": "https://github.com/lbialy/chimney-test/compare/e30d6461deb1...bd049a617cdf",
-    "timestamp": "2022-11-15T11:08:07+01:00",
-    "prevCommit": "e30d6461deb17f1bcc668183a1962ec553f299b0"
+    "link": "https://github.com/lbialy/chimney-test/pull/11",
+    "timestamp": "2022-11-15T10:09:10Z",
+    "prNumber": 11,
+    "sourceBranch": "lbialy/chimney-test/privileged",
+    "prTitle": "checking privileges"
   }
 ]
