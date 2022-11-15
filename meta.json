@@ -44,5 +44,19 @@
     "prNumber": 12,
     "sourceBranch": "lbialy/chimney-test/test-prs",
     "prTitle": "testing PRs"
+  },
+  {
+    "file": "5156f82408b29eee53011656ab684d40714db2b4.json",
+    "sha": "5156f82408b29eee53011656ab684d40714db2b4",
+    "event": "pull_request",
+    "describe": "5156f82",
+    "ref": "refs/pull/13/merge",
+    "author": "MateuszKubuszok",
+    "link": "https://github.com/lbialy/chimney-test/pull/13",
+    "timestamp": "2022-11-15T12:28:50Z",
+    "prNumber": 13,
+    "sourceBranch": "MateuszKubuszok/chimney-benchmark-pr-test/main",
+    "label": "benchmark",
+    "prTitle": "Create waterfall.sh"
   }
 ]
