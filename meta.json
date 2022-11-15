@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "file": "e30d6461deb17f1bcc668183a1962ec553f299b0.json",
+    "sha": "e30d6461deb17f1bcc668183a1962ec553f299b0",
+    "event": "push",
+    "describe": "e30d646",
+    "ref": "refs/heads/main",
+    "author": "lbialy",
+    "link": "https://github.com/lbialy/chimney-test/compare/9592db7af219...e30d6461deb1",
+    "prevCommit": "9592db7af2196bea9e9e5ef70e6c043d705f0023"
+  }
+]
