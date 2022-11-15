@@ -8,5 +8,17 @@
     "author": "lbialy",
     "link": "https://github.com/lbialy/chimney-test/compare/9592db7af219...e30d6461deb1",
     "prevCommit": "9592db7af2196bea9e9e5ef70e6c043d705f0023"
+  },
+  {
+    "file": "ab6c62321c90c055aae4ca9c1eb272d6e8be20c8.json",
+    "sha": "ab6c62321c90c055aae4ca9c1eb272d6e8be20c8",
+    "event": "pull_request",
+    "describe": "ab6c623",
+    "ref": "refs/pull/11/merge",
+    "author": "lbialy",
+    "link": "https://github.com/lbialy/chimney-test/pull/11",
+    "sourceBranch": "lbialy/chimney-test/privileged",
+    "label": "benchmark",
+    "prTitle": "checking privileges"
   }
 ]
